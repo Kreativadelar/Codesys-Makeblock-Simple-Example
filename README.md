@@ -13,10 +13,12 @@ Part used for this example:
 +	Raspberry PI 
 +	Arduino UNO
 +	Arduino Ethernet Shield
-+	Me UNO Shield
-+	Me Line Follower V2.2
++	[Makeblock Me UNO Shield](http://www.kreativadelar.se/shop/product/me-uno-shield?tm=produkter) 
++	Makeblock Me Line Follower V2.2
++	[Makeblock Me RJ25 Adapter V2.1](http://www.kreativadelar.se/shop/product/me-rj25-adapter-v21?tm=produkter)
 +	Makeblock LED RGB Strip (0.5m)
 
+Parts can be bought at (http://www.kreativadelar.se)
 
 Library and software used for this example:
 + Makeblock library for Arduino (https://github.com/Makeblock-official/Makeblock-Library)
