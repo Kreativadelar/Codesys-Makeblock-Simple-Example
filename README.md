@@ -1,9 +1,6 @@
 # Codesys-Makeblock Simple example
 
-.. image:: http://az61094.vo.msecnd.net/img/09/f7bdbcd1-116a-429a-a03b-3eb54e0b40b5/940/528
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
+[![Video showing the example](http://az61094.vo.msecnd.net/img/09/f7bdbcd1-116a-429a-a03b-3eb54e0b40b5/940/528)]
 
 This is a simple example showing that you can program the Makeblock products with Codesys - industrial IEC 61131-3 PLC programming.
 In the example we use the Me Line sensor to send information to the Codesys controller true Modbus TCP/IP communication. The controller reacts to the two sensors buy commanding the Arduino to change colours on the Makeblock LED RGB Strip (0.5m).
