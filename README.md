@@ -7,7 +7,7 @@ In the example we use the Me Line sensor to send information to the Codesys cont
 
 Video showing the example:
 
-[![Video showing the example](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+[![Video showing the example](http://img.youtube.com/vi/DzWtronhluM/0.jpg)](http://youtu.be/DzWtronhluM)
 
 Part used for this example:
 +	Raspberry PI 
