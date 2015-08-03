@@ -21,10 +21,10 @@ Part used for this example:
 Parts can be bought at (http://www.kreativadelar.se)
 
 Library and software used for this example:
-+ Makeblock library for Arduino (https://github.com/Makeblock-official/Makeblock-Library)
-+	Modbus TCP/IP library for Arduino (https://code.google.com/p/mudbus/downloads/list)
-+	CODESYS Control for Raspberry Pi SL (http://store.codesys.com/codesys-control-for-raspberry-pi-sl.html)
-+	CODESYS Development System for programming the controller (http://store.codesys.com/codesys.html)  
++ [Makeblock library for Arduino](https://github.com/Makeblock-official/Makeblock-Library)
++	[Modbus TCP/IP library for Arduino](https://code.google.com/p/mudbus/downloads/list)
++	[CODESYS Control for Raspberry Pi SL](http://store.codesys.com/codesys-control-for-raspberry-pi-sl.html)
++	[CODESYS Development System for programming the controller](http://store.codesys.com/codesys.html)  
 
 Resource for this example:
 
