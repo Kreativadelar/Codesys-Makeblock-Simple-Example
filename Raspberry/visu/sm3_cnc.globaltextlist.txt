@@ -1,0 +1,223 @@
+Id;Default
+114;%.0f
+219;%.2f
+128;%d
+151;%d µs
+138;%f
+158;%i
+188;%s
+107;1
+106;32
+216;3D-Mode
+206;Acc (EF):%f
+40;Acc:%f
+217;b3DMode
+20;bAbort
+76;bAcknM
+16;bAppend
+35;bAvoidGaps
+12;bBusy
+33;bCommandAborted
+10;bDone
+63;bEmergency_Stop
+26;bEnable
+81;bEndOfPath
+8;bError
+6;bExecute
+38;bExecuteDecoder
+113;bIncludePathSettings
+97;bMActive
+201;bPositionStored
+77;bQucikStop
+220;bQuickStop
+154;bQuick_Stop
+74;bSingleStep
+62;bSlow_Stop
+83;bStartAtEnd
+198;bStartFromSavedPos
+89;bStepSuppress
+31;bStopIpo
+21;bSymmetricalDistances
+64;bWaitAtNextStop
+65;bWorking
+215;c = %.2f deg  
+218;centerZ: %.2f
+118;dA1: %f
+119;dA2: %f
+120;dA3: %f
+121;dA4: %f
+122;dA5: %f
+123;dA6: %f
+124;dA: %f
+139;dAngleTol
+18;dAngleTol: %f
+125;dB: %f
+126;dC: %f
+207;Dec (EF):%f
+41;Dec:%f
+179;dEdgeDistance
+17;dEdgeDistance: %f
+156;dJerkMax
+186;dJerkMax: %f
+147;dK
+98;dK: %d
+148;dL
+99;dL: %d
+153;dLastWayPos
+72;dLastWayPos: %f
+167;dMaxAcc
+53;dMaxAcc: %f
+172;dMaxAccDec
+112;dMaxAccDec: %f
+168;dMaxAccJump
+95;dMaxAccJump: %f
+50;dMaxDec: %f
+171;dMaxVel
+52;dMaxVel: %f
+149;dOverride
+60;dOverride: %f
+175;dPhi
+58;dPhi: %f
+155;dQuickDeceleration
+78;dQuickDeceleration: %f
+157;dQuickStopJerk
+187;dQuickStopJerk: %f
+176;dRadius
+43;dRadius: %f
+177;dScaleFactor
+93;dScaleFactor: %f
+178;dSmoothingPart
+24;dSmoothingPart: %f
+182;dToolRadius
+47;dToolRadius: %f
+160;dVel
+67;dVel: %f
+163;dWayPos
+73;dWayPos: %f
+190;dwBufferSize
+152;dwIpoTime
+2;dwIpoTime: %d µs
+162;dwSwitches
+71;dwSwitches: %d
+100;dX: %f
+101;dY: %f
+102;dZ: %f
+181;eAddAxMode
+22;eAddAxMode: %s
+183;eDirection
+91;eDirection: %s
+180;eMode
+19;eMode: %s
+194;ErrorID
+9;ErrorID : %d
+192;fDefaultAccel
+209;fDefaultAccelFF
+193;fDefaultDecel
+210;fDefaultDecelFF
+191;fDefaultVel
+208;fDefaultVelFF
+142;fGapAcceleration
+29;fGapAccelertion : %f
+143;fGapDeceleration
+30;fGapDeceleration: %f
+202;fGapJerk
+196;fGapJerk: %f
+141;fGapVelocity
+28;fGapVelocity : %f
+7;File:%f
+37;File:%s
+140;fSetPosition
+27;fSetPosition : %f
+146;fSetVelocity
+56;fSetVelocity : %f
+159;iActObjectSourceNo
+66;iActObjectSourceNo: %i
+144;iErrorID
+32;iErrorID : %d
+161;iLastSwitch
+70;iLastSwitch: %d
+87;iLineNoDec.: %i
+173;iLineNumberDecoded
+174;iM
+45;iM: %i
+127;Instance: %s
+3;Instanz: %s
+4;Instanz: 5s
+195;iObjectsRead
+11;iObjectsRead: %d
+135;iSourceLine_No
+105;iSourceLine_No: %d
+131;iStatus
+34;iStatus: %s
+150;iVelMode
+61;iVelMode: %s
+184;lol
+75;M: %d
+165;nDirection
+82;nDirection: %s
+204;nNumReservedEntries
+129;nSizeOutQueue
+15;nSizeOutQueue: %d
+68;piSetPosition
+88;piStartPosition
+199;poqDataOut
+189;sFileName
+54;SMC_AvoidLoop
+197;SMC_BlockSearch
+200;SMC_BlockSearchSafePos
+211;SMC_BlockSearchSavePos
+132;SMC_CheckForLimits
+84;SMC_CheckVelocities
+25;SMC_ControlAxisByPos
+145;SMC_ControlAxisByPosVel
+55;SMC_ControlAxisByVel
+85;SMC_ControlAxisByVelPos
+108;SMC_ExtendedVelocityChecks
+96;SMC_GetMParameters
+59;SMC_Interpolator
+80;SMC_Interpolator2Dir
+48;SMC_LimitAddAxisDynamics
+166;SMC_LimitCircularVelocity
+169;SMC_LimitDynamics
+86;SMC_NCDecoder
+44;SMC_PreAcknowledgeMFunction
+203;SMC_QueueSetReservedEntries
+36;SMC_ReadNCFile
+5;SMC_ReadNCQueue
+57;SMC_RotateQueue2D
+42;SMC_RoundPath
+92;SMC_ScaleQueue3D
+23;SMC_SmoothAddAxes
+13;SMC_SmoothPath
+46;SMC_ToolCorr
+79;SMC_TranslateQueue3D
+90;SMC_XInterpolator
+185;vec
+69;vecActTangent
+205;Vel (FF):%f
+39;Vel:%f
+103;VISU_SMC_CheckForLimits
+94;VISU_SMC_LimitCircularVelocities
+109;VISU_SMC_LimitDynamics
+133;wAddAxis
+51;wAddAxis: %d
+170;wAxis
+111;wAxis: %d
+134;wAxisOutOfLimits
+104;wAxisOutOfLimits: %d
+49;wError: %d
+130;wErrorID
+14;wErrorID : %d
+110;wErrorID: %d
+137;wLimitSwNegative
+1;wLimitSwNegative: %d
+136;wLimitSwPositive
+0;wLimitSwPositive: %d
+;
+164;wM
+117;x
+213;x = %.2f u
+116;y
+214;y = %.2f u
+115;z
+212;z = %.2f u

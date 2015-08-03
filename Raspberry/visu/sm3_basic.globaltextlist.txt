@@ -1,0 +1,430 @@
+Id;Default
+132; Master: %f
+383; Name:
+139;%.2f
+285;%d
+287;%f
+324;%s
+385;/
+151;1
+299;16#%x
+152;32
+389;A:
+142;Acc
+135;Acc: %f
+200;Accelerating
+296;Acceleration
+32;Acceleration : %f
+109;Acceleration: %f
+250;Acceleration:%f
+288;AccelerationScale
+67;ActPosition: %f
+69;ActVelocity: %f
+286;ArraySize
+155;ArraySize: %d
+416;AvoidReversal
+72;AxisError
+313;AxisErrorID
+73;AxisErrorID : %d
+1;b
+237;bActAcceleration
+233;bActPosition
+235;bActVelocity
+26;bBrakeClosed
+2;bBusy
+6;bBusY
+7;bBusys
+218;bCheckAccDec
+96;bCheckVel
+231;bCloseFile
+81;bCommandAborted
+181;bCompensating
+25;bDone
+46;bDriveStart
+4;bDriveStartRealState
+24;bEnable
+82;bError
+77;bExecute
+117;bFBError
+92;bIgnoreHWLimit
+90;bIndexOccured
+146;bInitValue
+162;bInPosition
+217;bLimitsExceeded
+406;bPositionRestored
+405;bPositionStored
+15;bQucikStop
+240;bRecording
+12;bReferenceSwitch
+45;bRegulatorOn
+13;bRegulatorOnRealState
+14;bRegulatorRealState
+89;bReturnToZero
+225;bSet
+236;bSetAcceleration
+147;bSetInitValueAtReset
+232;bSetPosition
+234;bSetVelocity
+17;bStartAtEnd
+93;bStartLatchingIndex
+359;bTappet
+166;bTimeOut
+0;Busy
+3;Busyr
+5;bValid
+94;bVirtual
+360;byDeadTimeCycles
+185;byDeadTimeCycles: %d
+326;bySeparatorChar
+239;bySeparatorChar: %d
+37;CommandAborted
+199;ConstantVelocity
+196;ContinuousMotion
+269;DeadTimeComp.: %f
+346;DeadTimeCompensation
+201;Decelerating
+297;Deceleration
+173;Deceleration : %f
+33;Deceleration: %f
+251;Deceleration:%f
+309;Direction
+40;Direction: %s
+9;Disabled
+195;DiscreteMotion
+310;Distance
+48;Distance : %f
+337;dMasterAccMax
+129;dMasterAccMax : %.2f
+338;dMasterScaling
+130;dMasterScaling : %.2f
+336;dMasterVelMax
+128;dMasterVelMax : %.2f
+344;dMaxAccDec
+126;dMaxAccDec : %.2f
+340;dMaxPos
+122;dMaxPos : %.2f
+342;dMaxVel
+124;dMaxVel : %.2f
+345;dMinAccDec
+127;dMinAccDec : %.2f
+341;dMinPos
+123;dMinPos : %.2f
+343;dMinVel
+125;dMinVel : %.2f
+99;Done
+16;dQuickDeceleration: %f
+339;dSlaveScaling
+131;dSlaveScaling : %.2f
+407;dwDrivePersistedMask: %h
+408;dwDrivePersistedMask: 16#%x
+223;dwEncoderValue: %d
+347;dwRatioTechUnitsDenom
+212;dwRatioTechUnitsDenom: %d
+356;dwTimeAtMax
+189;dwTimeAtMax: %d
+354;dwTimeStamp
+186;dwTimeStamp: %d
+421;dwValueMask
+333;eBacklashMode
+179;eBacklashMode : %s
+334;eBacklashStartState
+180;eBacklashStartState : %s
+402;eErrorID
+401;eErrorID : %d
+328;eMode
+18;eMode: %s
+43;Enable
+300;EnableMask
+206;EnableMask : 16#%x
+111;EndOfProfile
+376;EndVelocity
+38;EndVelocity : %f
+377;EndVelocityDirection
+41;EndVelocityDirection: %s
+403;eRampType
+397;eRampType: %d
+398;eRampType: %s
+414;eRestoringDiag
+413;eRestoringDiag : %d
+35;Error
+284;ErrorID
+308;ErrorId
+36;ErrorID : %d
+158;ErrorID: %d
+202;Errorstop
+322;eSetBrake
+22;eSetBrake: %d
+30;Execute
+366;fAcceleration
+85;fAcceleration: %f
+361;fActTrackingError
+187;fActTrackingError: %f
+329;fBacklash
+175;fBacklash : %f
+203;FBErrorOccured
+331;fCompensationAcc
+177;fCompensationAcc : %f
+332;fCompensationDec
+178;fCompensationDec : %f
+330;fCompensationVel
+176;fCompensationVel : %f
+367;fDeceleration
+86;fDeceleration: %f
+375;fDistance
+227;fDistance : %.2f
+363;fHomePosition
+78;fHomePosition: %f
+371;fIndexPosition
+91;fIndexPosition: %f
+318;FirstPosition
+273;FirstPosition: %f
+393;fJerk
+391;fJerk: %f
+355;fMaxAcceleration
+255;fMaxAcceleration: %f
+362;fMaxTrackingError
+188;fMaxTrackingError: %f
+357;fMaxVelocity
+280;fMaxVelocity: %f
+349;fPositionPeriod
+214;fPositionPeriod: %f
+373;fPosTime
+164;fPosTime: %f
+372;fPosWindow
+163;fPosWindow: %f
+422;fSetAcceleration
+424;fSetCurrent
+351;fSetPosition
+113;fSetPosition : %f
+423;fSetTorque
+224;fSetValue %f
+352;fSetVelocity
+115;fSetVelocity : %f
+369;fSignalDelay
+87;fSignalDelay: %f
+353;fStartPosition
+221;fStartPosition: %f
+374;fTimeOut
+165;fTimeOut: %f
+382;fTorque
+243;fTorque: %f
+365;fVelocityFast
+80;fVelocityFast: %f
+364;fVelocitySlow
+79;fVelocitySlow : %f
+198;Homing
+65;Id: %d
+335;iErrorID
+114;iErrorID : %d
+358;iID
+144;iID:%d
+350;iMovementType
+400;iMovementType: %d
+215;iMovementType: %s
+136;inc:$R$N%f
+60;InchAcc : %f
+62;InchBackward
+61;InchDec : %f
+64;InchDistance : %f
+63;InchForward
+59;InchVelo : %f
+34;InEndVelocity
+248;InGear
+205;InOperation
+283;Instance: %s
+220;Instanz: $$FB$$
+27;Instanz: %s
+28;Instanz: 5s
+103;InSync
+51;InVelocity
+348;iRatioTechUnitsNum
+213;iRatioTechUnitsNum: %d
+392;Jerk
+390;Jerk: %f
+55;JogAcc : %f
+53;JogBackward
+56;JogDec : %f
+52;JogForward
+54;JogVelo : %f
+319;LastPosition
+275;LastPosition: %f
+171;MasterAbsolute
+290;MasterOffset
+102;MasterOffset:%f
+292;MasterScaling
+105;MasterScaling:%f
+305;MasterStartDistance
+265;MasterStartDistance %f
+303;MasterSyncPosition
+49;MasterSyncPosition %f
+266;MC_AbortTrigger
+167;MC_AccelerationProfile
+101;MC_CamIn
+256;MC_CamOut
+169;MC_CamTableSelect
+204;MC_DigitalCamSwitch
+246;MC_GearIn
+261;MC_GearInPos
+270;MC_GearOut
+252;MC_Halt
+97;MC_Home
+58;MC_Inch
+57;MC_Jog
+208;MC_MoveAbsolute
+153;MC_MoveAdditive
+271;MC_MoveRelative
+190;MC_MoveSuperImposed
+50;MC_MoveVelocity
+258;MC_Phasing
+154;MC_PositionProfile
+42;MC_Power
+278;MC_ReadActualPosition
+417;MC_ReadActualTorque
+419;MC_ReadActualVelocity
+71;MC_ReadAxisError
+209;MC_ReadBoolParameter
+157;MC_ReadParameter
+192;MC_ReadStatus
+100;MC_Reset
+281;MC_SetPosition
+229;MC_Stop
+272;MC_TouchProbe
+267;MC_VelocityProfile
+228;MC_WriteBoolParameter
+253;MC_WriteParameter
+317;Mode
+282;Mode: %s
+394;Name: %s
+381;nControllerMode
+183;nControllerMode: %d
+368;nDirection
+84;nDirection: %s
+323;nErrorID
+83;nErrorID : %d
+378;nFBErrorID
+118;nFBErrorID : %d
+370;nHomingMode
+88;nHomingMode: %s
+138;No of Elements: %i
+289;Offset
+156;Offset: %f
+207;Outputs
+314;ParameterNumber
+159;ParameterNumber: %d
+379;pbyErrorInstance
+119;pbyFBErrorID : %s
+170;Periodic
+311;PhaseShift
+259;PhaseShift: %f
+137;Point: %i
+140;Pos
+306;Position
+39;Position : %f
+98;Position: %f
+312;PositionScale
+10;PositionScale: %f
+302;RatioDenominator
+249;RatioDenominator: %d
+301;RatioNumerator
+263;RatioNumerator: %d
+247;RatioNumerator:%d
+320;RecordedPosition
+276;RecordedPosition : %f
+168;Scale: %f
+384;Selection:
+66;SetPosition: %f
+68;SetVelocity: %f
+325;sFileName
+149;sFileName:%s
+133;Slave: %f
+172;SlaveAbsolute
+291;SlaveOffset
+104;SlaveOffset:%f
+293;SlaveScaling
+106;SlaveScaling:%f
+304;SlaveSyncPosition
+264;SlaveSyncPosition %f
+404;SMC3_PersistPosition
+412;SMC3_PersistPositionLogical
+411;SMC3_PersistPositionLogiv
+409;SMC3_PersistPositionSingelturn
+410;SMC3_PersistPositionSingleturn
+95;SMC3_ReinitDrive
+230;SMC_AxisDiagnosticLog
+174;SMC_BacklashCompensation
+121;SMC_CAMBounds
+241;SMC_CAMBounds_Pos
+268;SMC_CamRegister
+211;SMC_ChangeGearingRatio
+216;SMC_CheckLimits
+222;SMC_Encoder
+257;SMC_FollowPosition
+112;SMC_FollowPositionVelocity
+420;SMC_FollowSetValues
+150;SMC_FollowVelocity
+245;SMC_GetCamSlaveSetPosition
+219;SMC_GetCamSlaveSetPositionEx
+254;SMC_GetMaxSetAccDec
+279;SMC_GetMaxSetVelocity
+143;SMC_GetTappetValue
+184;SMC_GetTrackingError
+76;SMC_Homing
+70;SMC_Inch
+161;SMC_InPosition
+19;SMC_LimitAddAxisDynamics
+226;SMC_MeasureDistance
+29;SMC_MoveContinuousAbsolute
+47;SMC_MoveContinuousRelative
+20;SMC_PreAcknowledgeMFunction
+21;SMC3_BrakeControl
+23;SMC3_BrakeStatus
+244;SMC_ReadCAM
+116;SMC_ReadFBError
+277;SMC_ReadSetPosition
+182;SMC_SetControllerMode
+399;SMC_SetMovementType
+396;SMC_SetRampType
+242;SMC_SetTorque
+148;SMC_WriteCAM
+327;sRecordSeparatorString
+238;sRecordSeparatorString:%s
+194;Standstill
+316;StandStill
+294;StartMode
+107;StartMode: %s
+262;StartSync
+44;Status
+193;Stopping
+428;strErrorInstance
+427;strErrorInstance : %s
+425;strErrorInstance: %s
+75;SWEndSwitchActive
+74;SWEndSwitchActivSWEndSwitchActive
+197;SynchronizedMotion
+145;Tappet
+298;TappetHysteresis
+110;TappetHysteresis: %f
+418;Torque
+380;tTimeStamp
+120;tTimeStamp : %s
+395;Type: %s
+415;usiNumberOfAbsoluteBits
+388;V:
+8;Valid
+315;Value
+160;Value: %f
+210;Value: %s
+141;Vel
+134;Vel: %f
+307;Velocity
+31;Velocity : %f
+260;Velocity: %f
+295;VelocityDiff
+191;VelocityDiff : %f
+108;VelocityDiff: %f
+321;VelocityScale
+11;VelocityScale: %f
+;
+274;WindowOnly
+386;X :
+387;Y :

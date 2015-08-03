@@ -1,0 +1,5 @@
+Id;Default
+0;SPAA_LATE
+1;SPAA_BROAD
+2;SPAA_NONE
+;

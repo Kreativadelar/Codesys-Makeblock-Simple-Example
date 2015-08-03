@@ -1,0 +1,1180 @@
+<?xml version="1.0"?>
+<svg width="455" height="225" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <filter id="AI_GaußscherWeichzeichner_1">
+  <feGaussianBlur stdDeviation="1"/>
+ </filter>
+ <g>
+  <title>Layer 1</title>
+  <g id="Ebene_1">
+   <g id="svg_1">
+    <path id="svg_2" d="m450.071014,3.08l-443.906013,0c-1.744001,0 -3.173,1.427999 -3.173,3.167999l0,211.705996c0,1.73999 1.43,3.167999 3.173,3.167999l443.906013,0c1.742981,0 3.173004,-1.428009 3.173004,-3.167999l0,-211.705996c-0.000031,-1.740999 -1.430023,-3.167999 -3.173004,-3.167999l0,0z" stroke-miterlimit="10" stroke-width="5" stroke="#353534" fill="#001E3D" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_3">
+    <path id="svg_4" d="m-227.692993,-115.378998c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237 -13.979004,31.192997 -31.246002,31.192997c-17.26799,0 -31.274994,-13.955997 -31.274994,-31.192997c-0.001007,-17.238998 14.006989,-31.223 31.274994,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="-70.4214" cx="-200.708" id="SVGID_1_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_5" r="28.347" cy="-84.171" cx="-227.708" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_1_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4805" cy="-70.4219" cx="-200.7075" id="SVGID_2_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_6" r="29.48" cy="-84.172" cx="-227.708" fill="url(#SVGID_2_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6379" cy="-70.4214" cx="-200.708" id="SVGID_3_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_7" r="27.638" cy="-84.171" cx="-227.708" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_3_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <ellipse id="svg_8" ry="23.675" rx="23.375" cy="-87.604" cx="-159.858" stroke-miterlimit="10" stroke-width="0.25" stroke="#000000" fill="none" clip-rule="evenodd" fill-rule="evenodd"/>
+   <ellipse id="svg_9" ry="23.675" rx="20.375" cy="-87.604" cx="-159.858" stroke-miterlimit="10" stroke-width="0.25" stroke="#000000" fill="none" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_10" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.500027" y1="0.999998" x1="0.500027" id="SVGID_4_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_11" d="m-247.475006,-84.170998c0,-12.685005 8.849991,-22.968002 19.766998,-22.968002c-12.524002,0 -22.677002,10.282997 -22.677002,22.968002s10.151993,22.967999 22.677002,22.967999c-10.916992,0 -19.766998,-10.283001 -19.766998,-22.967999z" fill="url(#SVGID_4_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.000009" x2="0.499973" y1="1.00002" x1="0.499973" id="SVGID_5_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_12" d="m-227.707993,-107.139999c10.917007,0 19.766998,10.282997 19.766998,22.968002s-8.849991,22.967999 -19.766998,22.967999c12.524002,0 22.677002,-10.283001 22.677002,-22.967999s-10.153015,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_5_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <path id="svg_13" d="m-255.229004,-86.662003c8.805008,1.456001 18.02301,2.232002 27.520004,2.232002c9.496994,0 18.716003,-0.776001 27.520996,-2.232002c-1.259995,-14.096001 -13.097,-25.146996 -27.520996,-25.146996s-26.259995,11.050995 -27.520004,25.146996z" clip-rule="evenodd" fill-rule="evenodd" opacity="0.2"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.000003" x2="0.5" y1="1.000007" x1="0.5" id="SVGID_6_">
+    <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="0"/>
+    <stop stop-color="#FFFFFF" offset="1"/>
+   </linearGradient>
+   <path id="svg_14" d="m449.902008,99.361c0,1.556 -1.260986,2.817001 -2.816986,2.817001l-437.934021,0c-1.556,0 -2.818001,-1.262001 -2.818001,-2.817001l0,-90.742001c0,-1.556 1.262001,-2.817999 2.818001,-2.817999l437.93399,0c1.557007,0 2.816986,1.261999 2.816986,2.817999l0,90.742001l0.000031,0z" fill="url(#SVGID_6_)"/>
+   <g id="svg_15">
+    <path id="svg_16" d="m46.870003,12.082001c17.266998,0 31.245995,13.984001 31.245995,31.223c0,17.237 -13.978996,31.193001 -31.245995,31.193001c-17.268002,0 -31.275002,-13.956001 -31.275002,-31.193001c0,-17.238998 14.007999,-31.223 31.275002,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="57.04" cx="73.8555" id="SVGID_7_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_17" r="28.347" cy="43.29" cx="46.855" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_7_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4807" cy="57.0391" cx="73.856" id="SVGID_8_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_18" r="29.48" cy="43.289" cx="46.856" fill="url(#SVGID_8_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="57.04" cx="73.8555" id="SVGID_9_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_19" r="27.638" cy="43.29" cx="46.855" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_9_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_20" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.500004" y1="0.999996" x1="0.500004" id="SVGID_10_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_21" d="m27.089001,43.290001c0,-12.685001 8.849998,-22.968002 19.767002,-22.968002c-12.524002,0 -22.677002,10.283001 -22.677002,22.968002s10.152,22.968002 22.677002,22.968002c-10.918003,0 -19.767002,-10.283005 -19.767002,-22.968002z" fill="url(#SVGID_10_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.499996" y1="0.999996" x1="0.499996" id="SVGID_11_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_22" d="m46.855003,20.321999c10.917,0 19.766998,10.283001 19.766998,22.968002s-8.849998,22.968002 -19.766998,22.968002c12.523994,0 22.676994,-10.283005 22.676994,-22.968002s-10.152,-22.968002 -22.676994,-22.968002z" fill="url(#SVGID_11_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_23">
+    <path id="svg_24" d="m46.870003,80.975998c17.266998,0 31.245995,13.984001 31.245995,31.223c0,17.237007 -13.978996,31.193001 -31.245995,31.193001c-17.268002,0 -31.275002,-13.955994 -31.275002,-31.193001c0,-17.238998 14.007999,-31.223 31.275002,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="125.9336" cx="73.8555" id="SVGID_12_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_25" r="28.347" cy="112.184" cx="46.855" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_12_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="125.9336" cx="73.856" id="SVGID_13_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_26" r="29.48" cy="112.183" cx="46.856" fill="url(#SVGID_13_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="125.9336" cx="73.8555" id="SVGID_14_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_27" r="27.638" cy="112.184" cx="46.855" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_14_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_28" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.500004" y1="0.999987" x1="0.500004" id="SVGID_15_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_29" d="m27.089001,112.183998c0,-12.684998 8.849998,-22.967995 19.767002,-22.967995c-12.524002,0 -22.677002,10.282997 -22.677002,22.967995s10.152,22.967995 22.677002,22.967995c-10.918003,-0.000992 -19.767002,-10.283997 -19.767002,-22.967995z" fill="url(#SVGID_15_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499996" y1="0.999987" x1="0.499996" id="SVGID_16_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_30" d="m46.855003,89.216003c10.917,0 19.766998,10.282997 19.766998,22.967995s-8.849998,22.967995 -19.766998,22.967995c12.523994,0 22.676994,-10.28299 22.676994,-22.967995s-10.152,-22.967995 -22.676994,-22.967995z" fill="url(#SVGID_16_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_31">
+    <path id="svg_32" d="m46.870003,149.869995c17.266998,0 31.245995,13.984009 31.245995,31.222992c0,17.237 -13.978996,31.193008 -31.245995,31.193008c-17.268002,0 -31.275002,-13.955994 -31.275002,-31.193008c0,-17.238983 14.007999,-31.222992 31.275002,-31.222992l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="194.8281" cx="73.8555" id="SVGID_17_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_33" r="28.347" cy="181.078" cx="46.855" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_17_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="194.8281" cx="73.856" id="SVGID_18_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_34" r="29.48" cy="181.077" cx="46.856" fill="url(#SVGID_18_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="194.8281" cx="73.8555" id="SVGID_19_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_35" r="27.638" cy="181.078" cx="46.855" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_19_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_36" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.500004" y1="0.999998" x1="0.500004" id="SVGID_20_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_37" d="m27.089001,181.078003c0,-12.684998 8.849998,-22.968002 19.767002,-22.968002c-12.524002,0 -22.677002,10.283005 -22.677002,22.968002s10.152,22.968002 22.677002,22.968002c-10.918003,0 -19.767002,-10.283005 -19.767002,-22.968002z" fill="url(#SVGID_20_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.499996" y1="0.999998" x1="0.499996" id="SVGID_21_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_38" d="m46.855003,158.110001c10.917,0 19.766998,10.283005 19.766998,22.968002s-8.849998,22.968002 -19.766998,22.968002c12.523994,0 22.676994,-10.283005 22.676994,-22.968002s-10.152,-22.968002 -22.676994,-22.968002z" fill="url(#SVGID_21_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_39">
+    <path id="svg_40" d="m119.955994,12.082001c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237 -13.979004,31.193001 -31.246002,31.193001c-17.268005,0 -31.275002,-13.956001 -31.275002,-31.193001c-0.000992,-17.238998 14.007011,-31.223 31.275002,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="57.04" cx="146.9409" id="SVGID_22_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_41" r="28.347" cy="43.29" cx="119.941" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_22_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4807" cy="57.0391" cx="146.9414" id="SVGID_23_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_42" r="29.48" cy="43.289" cx="119.941" fill="url(#SVGID_23_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="57.04" cx="146.9409" id="SVGID_24_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_43" r="27.638" cy="43.29" cx="119.941" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_24_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_44" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.500022" y1="0.999996" x1="0.500022" id="SVGID_25_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_45" d="m100.174004,43.290001c0,-12.685001 8.849998,-22.968002 19.766991,-22.968002c-12.523987,0 -22.676994,10.283001 -22.676994,22.968002s10.152,22.968002 22.676994,22.968002c-10.916992,0 -19.766991,-10.283005 -19.766991,-22.968002z" fill="url(#SVGID_25_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.499969" y1="0.999996" x1="0.499969" id="SVGID_26_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_46" d="m119.940994,20.321999c10.916992,0 19.766998,10.283001 19.766998,22.968002s-8.850006,22.968002 -19.766998,22.968002c12.524002,0 22.677002,-10.283005 22.677002,-22.968002s-10.153,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_26_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_47">
+    <path id="svg_48" d="m193.041,12.082001c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237 -13.979004,31.193001 -31.246002,31.193001c-17.268005,0 -31.274994,-13.956001 -31.274994,-31.193001c0,-17.238998 14.006989,-31.223 31.274994,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="57.04" cx="220.0264" id="SVGID_27_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_49" r="28.347" cy="43.29" cx="193.026" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_27_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4807" cy="57.0391" cx="220.0269" id="SVGID_28_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_50" r="29.48" cy="43.289" cx="193.027" fill="url(#SVGID_28_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="57.04" cx="220.0264" id="SVGID_29_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_51" r="27.638" cy="43.29" cx="193.026" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_29_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_52" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.5" y1="0.999996" x1="0.5" id="SVGID_30_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_53" d="m173.259995,43.290001c0,-12.685001 8.849991,-22.968002 19.766998,-22.968002c-12.524002,0 -22.677002,10.283001 -22.677002,22.968002s10.152008,22.968002 22.677002,22.968002c-10.917999,0 -19.766998,-10.283005 -19.766998,-22.968002z" fill="url(#SVGID_30_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.499991" y1="0.999996" x1="0.499991" id="SVGID_31_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_54" d="m193.026001,20.321999c10.916992,0 19.766998,10.283001 19.766998,22.968002s-8.850006,22.968002 -19.766998,22.968002c12.524002,0 22.677002,-10.283005 22.677002,-22.968002s-10.152008,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_31_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_55">
+    <path id="svg_56" d="m193.041,80.975998c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237007 -13.979004,31.193001 -31.246002,31.193001c-17.268005,0 -31.274994,-13.955994 -31.274994,-31.193001c0,-17.238998 14.006989,-31.223 31.274994,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="125.9336" cx="220.0264" id="SVGID_32_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_57" r="28.347" cy="112.184" cx="193.026" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_32_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="125.9336" cx="220.0269" id="SVGID_33_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_58" r="29.48" cy="112.183" cx="193.027" fill="url(#SVGID_33_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="125.9336" cx="220.0264" id="SVGID_34_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_59" r="27.638" cy="112.184" cx="193.026" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_34_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_60" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.5" y1="0.999987" x1="0.5" id="SVGID_35_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_61" d="m173.259995,112.183998c0,-12.684998 8.849991,-22.967995 19.766998,-22.967995c-12.524002,0 -22.677002,10.282997 -22.677002,22.967995s10.152008,22.967995 22.677002,22.967995c-10.917999,-0.000992 -19.766998,-10.283997 -19.766998,-22.967995z" fill="url(#SVGID_35_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499991" y1="0.999987" x1="0.499991" id="SVGID_36_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_62" d="m193.026001,89.216003c10.916992,0 19.766998,10.282997 19.766998,22.967995s-8.850006,22.967995 -19.766998,22.967995c12.524002,0 22.677002,-10.28299 22.677002,-22.967995s-10.152008,-22.967995 -22.677002,-22.967995z" fill="url(#SVGID_36_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_63">
+    <path id="svg_64" d="m266.126007,80.975998c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237007 -13.979004,31.193001 -31.246002,31.193001c-17.268005,0 -31.274994,-13.955994 -31.274994,-31.193001c0,-17.238998 14.006989,-31.223 31.274994,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="125.9336" cx="293.1113" id="SVGID_37_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_65" r="28.347" cy="112.184" cx="266.111" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_37_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="125.9336" cx="293.1118" id="SVGID_38_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_66" r="29.48" cy="112.183" cx="266.112" fill="url(#SVGID_38_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="125.9336" cx="293.1113" id="SVGID_39_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_67" r="27.638" cy="112.184" cx="266.111" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_39_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_68" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499996" y1="0.999987" x1="0.499996" id="SVGID_40_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_69" d="m246.345001,112.183998c0,-12.684998 8.850006,-22.967995 19.766998,-22.967995c-12.523987,0 -22.677002,10.282997 -22.677002,22.967995s10.152008,22.967995 22.677002,22.967995c-10.917999,-0.000992 -19.766998,-10.283997 -19.766998,-22.967995z" fill="url(#SVGID_40_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499987" y1="0.999987" x1="0.499987" id="SVGID_41_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_70" d="m266.110992,89.216003c10.916992,0 19.766998,10.282997 19.766998,22.967995s-8.850006,22.967995 -19.766998,22.967995c12.523987,0 22.677002,-10.28299 22.677002,-22.967995s-10.152008,-22.967995 -22.677002,-22.967995z" fill="url(#SVGID_41_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_71">
+    <path id="svg_72" d="m339.210999,80.975998c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237007 -13.979004,31.193001 -31.246002,31.193001c-17.268005,0 -31.274994,-13.955994 -31.274994,-31.193001c0,-17.238998 14.007996,-31.223 31.274994,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="125.9336" cx="366.1968" id="SVGID_42_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_73" r="28.347" cy="112.184" cx="339.197" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_42_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="125.9336" cx="366.1973" id="SVGID_43_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_74" r="29.48" cy="112.183" cx="339.197" fill="url(#SVGID_43_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="125.9336" cx="366.1968" id="SVGID_44_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_75" r="27.638" cy="112.184" cx="339.197" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_44_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_76" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.500018" y1="0.999987" x1="0.500018" id="SVGID_45_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_77" d="m319.429993,112.183998c0,-12.684998 8.850006,-22.967995 19.766998,-22.967995c-12.523987,0 -22.677002,10.282997 -22.677002,22.967995s10.152008,22.967995 22.677002,22.967995c-10.916992,-0.000992 -19.766998,-10.283997 -19.766998,-22.967995z" fill="url(#SVGID_45_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499965" y1="0.999987" x1="0.499965" id="SVGID_46_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_78" d="m339.196991,89.216003c10.916992,0 19.766998,10.282997 19.766998,22.967995s-8.850006,22.967995 -19.766998,22.967995c12.523987,0 22.677002,-10.28299 22.677002,-22.967995s-10.152985,-22.967995 -22.677002,-22.967995z" fill="url(#SVGID_46_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_79">
+    <path id="svg_80" d="m412.296997,80.975998c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237007 -13.979004,31.193001 -31.246002,31.193001c-17.268005,0 -31.274994,-13.955994 -31.274994,-31.193001c-0.001007,-17.238998 14.006989,-31.223 31.274994,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="125.9336" cx="439.2822" id="SVGID_47_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_81" r="28.347" cy="112.184" cx="412.282" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_47_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.48" cy="125.9336" cx="439.2832" id="SVGID_48_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_82" r="29.48" cy="112.183" cx="412.283" fill="url(#SVGID_48_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="125.9336" cx="439.2822" id="SVGID_49_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_83" r="27.638" cy="112.184" cx="412.282" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_49_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_84" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499992" y1="0.999987" x1="0.499992" id="SVGID_50_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_85" d="m392.515991,112.183998c0,-12.684998 8.850006,-22.967995 19.766998,-22.967995c-12.523987,0 -22.677002,10.282997 -22.677002,22.967995s10.152008,22.967995 22.677002,22.967995c-10.917999,-0.000992 -19.766998,-10.283997 -19.766998,-22.967995z" fill="url(#SVGID_50_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499982" y1="0.999987" x1="0.499982" id="SVGID_51_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_86" d="m412.282013,89.216003c10.916992,0 19.766998,10.282997 19.766998,22.967995s-8.850006,22.967995 -19.766998,22.967995c12.523987,0 22.677002,-10.28299 22.677002,-22.967995s-10.152008,-22.967995 -22.677002,-22.967995z" fill="url(#SVGID_51_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_87">
+    <path id="svg_88" d="m119.955994,149.869995c17.266998,0 31.246002,13.984009 31.246002,31.222992c0,17.237 -13.979004,31.193008 -31.246002,31.193008c-17.268005,0 -31.275002,-13.955994 -31.275002,-31.193008c-0.000992,-17.238983 14.007011,-31.222992 31.275002,-31.222992l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="194.8281" cx="146.9409" id="SVGID_52_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_89" r="28.347" cy="181.078" cx="119.941" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_52_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="194.8281" cx="146.9414" id="SVGID_53_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_90" r="29.48" cy="181.077" cx="119.941" fill="url(#SVGID_53_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="194.8281" cx="146.9409" id="SVGID_54_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_91" r="27.638" cy="181.078" cx="119.941" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_54_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_92" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.500022" y1="0.999998" x1="0.500022" id="SVGID_55_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_93" d="m100.174004,181.078003c0,-12.684998 8.849998,-22.968002 19.766991,-22.968002c-12.523987,0 -22.676994,10.283005 -22.676994,22.968002s10.152,22.968002 22.676994,22.968002c-10.916992,0 -19.766991,-10.283005 -19.766991,-22.968002z" fill="url(#SVGID_55_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.499969" y1="0.999998" x1="0.499969" id="SVGID_56_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_94" d="m119.940994,158.110001c10.916992,0 19.766998,10.283005 19.766998,22.968002s-8.850006,22.968002 -19.766998,22.968002c12.524002,0 22.677002,-10.283005 22.677002,-22.968002s-10.153,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_56_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_95">
+    <path id="svg_96" d="m193.041,149.869995c17.266998,0 31.246002,13.984009 31.246002,31.222992c0,17.237 -13.979004,31.193008 -31.246002,31.193008c-17.268005,0 -31.274994,-13.955994 -31.274994,-31.193008c0,-17.238983 14.006989,-31.222992 31.274994,-31.222992l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="194.8281" cx="220.0264" id="SVGID_57_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_97" r="28.347" cy="181.078" cx="193.026" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_57_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="194.8281" cx="220.0269" id="SVGID_58_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_98" r="29.48" cy="181.077" cx="193.027" fill="url(#SVGID_58_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="194.8281" cx="220.0264" id="SVGID_59_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_99" r="27.638" cy="181.078" cx="193.026" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_59_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_100" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.5" y1="0.999998" x1="0.5" id="SVGID_60_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_101" d="m173.259995,181.078003c0,-12.684998 8.849991,-22.968002 19.766998,-22.968002c-12.524002,0 -22.677002,10.283005 -22.677002,22.968002s10.152008,22.968002 22.677002,22.968002c-10.917999,0 -19.766998,-10.283005 -19.766998,-22.968002z" fill="url(#SVGID_60_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.499991" y1="0.999998" x1="0.499991" id="SVGID_61_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_102" d="m193.026001,158.110001c10.916992,0 19.766998,10.283005 19.766998,22.968002s-8.850006,22.968002 -19.766998,22.968002c12.524002,0 22.677002,-10.283005 22.677002,-22.968002s-10.152008,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_61_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_103">
+    <path id="svg_104" d="m266.126007,149.869995c17.266998,0 31.246002,13.984009 31.246002,31.222992c0,17.237 -13.979004,31.193008 -31.246002,31.193008c-17.268005,0 -31.274994,-13.955994 -31.274994,-31.193008c0,-17.238983 14.007996,-31.222992 31.274994,-31.222992l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="194.8281" cx="293.1118" id="SVGID_62_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_105" r="28.347" cy="181.078" cx="266.112" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_62_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="194.8281" cx="293.1123" id="SVGID_63_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_106" r="29.48" cy="181.077" cx="266.112" fill="url(#SVGID_63_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="194.8281" cx="293.1118" id="SVGID_64_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_107" r="27.638" cy="181.078" cx="266.112" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_64_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_108" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.500018" y1="0.999998" x1="0.500018" id="SVGID_65_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_109" d="m246.345001,181.078003c0,-12.684998 8.850006,-22.968002 19.766998,-22.968002c-12.523987,0 -22.677002,10.283005 -22.677002,22.968002s10.152008,22.968002 22.677002,22.968002c-10.916992,0 -19.766998,-10.283005 -19.766998,-22.968002z" fill="url(#SVGID_65_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.499965" y1="0.999998" x1="0.499965" id="SVGID_66_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_110" d="m266.112,158.110001c10.916992,0 19.766998,10.283005 19.766998,22.968002s-8.850006,22.968002 -19.766998,22.968002c12.523987,0 22.677002,-10.283005 22.677002,-22.968002s-10.153015,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_66_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_111">
+    <path id="svg_112" d="m339.212006,149.869995c17.266998,0 31.246002,13.984009 31.246002,31.222992c0,17.237 -13.979004,31.193008 -31.246002,31.193008c-17.268005,0 -31.274994,-13.955994 -31.274994,-31.193008c0,-17.238983 14.006989,-31.222992 31.274994,-31.222992l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="194.8281" cx="366.1973" id="SVGID_67_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_113" r="28.347" cy="181.078" cx="339.197" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_67_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4802" cy="194.8281" cx="366.1978" id="SVGID_68_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_114" r="29.48" cy="181.077" cx="339.198" fill="url(#SVGID_68_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="194.8281" cx="366.1973" id="SVGID_69_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_115" r="27.638" cy="181.078" cx="339.197" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_69_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_116" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.499996" y1="0.999998" x1="0.499996" id="SVGID_70_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_117" d="m319.431,181.078003c0,-12.684998 8.850006,-22.968002 19.766998,-22.968002c-12.523987,0 -22.677002,10.283005 -22.677002,22.968002s10.152008,22.968002 22.677002,22.968002c-10.917999,0 -19.766998,-10.283005 -19.766998,-22.968002z" fill="url(#SVGID_70_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.499987" y1="0.999998" x1="0.499987" id="SVGID_71_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_118" d="m339.196991,158.110001c10.916992,0 19.766998,10.283005 19.766998,22.968002s-8.850006,22.968002 -19.766998,22.968002c12.523987,0 22.677002,-10.283005 22.677002,-22.968002s-10.152008,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_71_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_119">
+    <path id="svg_120" d="m412.296997,149.869995c17.268005,0 31.246002,13.984009 31.246002,31.222992c0,17.237 -13.979004,31.193008 -31.246002,31.193008s-31.274994,-13.955994 -31.274994,-31.193008c0,-17.238983 14.006989,-31.222992 31.274994,-31.222992l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="194.8281" cx="439.2822" id="SVGID_72_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_121" r="28.346001" cy="181.078" cx="412.282" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_72_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4805" cy="194.8281" cx="439.2832" id="SVGID_73_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_122" r="29.48" cy="181.077" cx="412.283" fill="url(#SVGID_73_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="194.8281" cx="439.2822" id="SVGID_74_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_123" r="27.636999" cy="181.078" cx="412.282" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_74_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_124" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.500036" y1="0.999998" x1="0.500036" id="SVGID_75_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_125" d="m392.515991,181.078003c0,-12.684998 8.848999,-22.968002 19.766998,-22.968002c-12.524994,0 -22.677002,10.283005 -22.677002,22.968002s10.152008,22.968002 22.677002,22.968002c-10.917999,0 -19.766998,-10.283005 -19.766998,-22.968002z" fill="url(#SVGID_75_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000013" x2="0.500005" y1="0.999998" x1="0.500005" id="SVGID_76_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_126" d="m412.28299,158.110001c10.916016,0 19.765991,10.283005 19.765991,22.968002s-8.849976,22.968002 -19.765991,22.968002c12.52301,0 22.675995,-10.283005 22.675995,-22.968002s-10.151978,-22.968002 -22.675995,-22.968002z" fill="url(#SVGID_76_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_127">
+    <path id="svg_128" d="m339.212006,12.082001c17.266998,0 31.246002,13.984001 31.246002,31.223c0,17.237 -13.979004,31.193001 -31.246002,31.193001c-17.268005,0 -31.274994,-13.956001 -31.274994,-31.193001c0,-17.238998 14.007996,-31.223 31.274994,-31.223l0,0z" stroke-miterlimit="10" stroke-width="0.5708" stroke="#141616" fill="#AFDCF1" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="28.3467" cy="57.04" cx="366.1978" id="SVGID_77_">
+    <stop stop-color="#0B0D37" offset="0"/>
+    <stop stop-color="#0C1624" offset="0.7756"/>
+    <stop stop-color="#203239" offset="1"/>
+   </radialGradient>
+   <circle id="svg_129" r="28.347" cy="43.29" cx="339.198" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_77_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="29.4807" cy="57.0391" cx="366.1982" id="SVGID_78_">
+    <stop stop-color="#312278" offset="0"/>
+    <stop stop-color="#33257A" stop-opacity="0.8519" offset="0.0922"/>
+    <stop stop-color="#392C7F" stop-opacity="0.6855" offset="0.1958"/>
+    <stop stop-color="#423A89" stop-opacity="0.5104" offset="0.3048"/>
+    <stop stop-color="#50509A" stop-opacity="0.3291" offset="0.4176"/>
+    <stop stop-color="#6670B3" stop-opacity="0.1449" offset="0.5323"/>
+    <stop stop-color="#6C79BA" stop-opacity="0.1" offset="0.5602"/>
+    <stop stop-color="#6C83C1" stop-opacity="0.1164" offset="0.5685"/>
+    <stop stop-color="#6E9DD4" stop-opacity="0.148" offset="0.5845"/>
+    <stop stop-color="#72C3EE" stop-opacity="0.1912" offset="0.6063"/>
+    <stop stop-color="#73CCF4" stop-opacity="0.2" offset="0.6108"/>
+    <stop stop-color="#48C1EA" stop-opacity="0.5" offset="0.704"/>
+    <stop stop-color="#00B4E6" stop-opacity="0.618" offset="0.7738"/>
+    <stop stop-color="#00A9E2" stop-opacity="0.755" offset="0.855"/>
+    <stop stop-color="#00A3E0" stop-opacity="0.8851" offset="0.932"/>
+    <stop stop-color="#00A1DF" offset="1"/>
+   </radialGradient>
+   <circle id="svg_130" r="29.48" cy="43.289" cx="339.198" fill="url(#SVGID_78_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <radialGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " gradientUnits="userSpaceOnUse" r="27.6377" cy="57.04" cx="366.1978" id="SVGID_79_">
+    <stop stop-color="#001E3D" offset="0"/>
+    <stop stop-color="#233051" offset="0.7756"/>
+    <stop stop-color="#253152" offset="0.8093"/>
+    <stop stop-color="#2C3454" offset="0.8383"/>
+    <stop stop-color="#363A58" offset="0.8654"/>
+    <stop stop-color="#43425E" offset="0.8915"/>
+    <stop stop-color="#524F65" offset="0.9168"/>
+    <stop stop-color="#615D6D" offset="0.9416"/>
+    <stop stop-color="#6C6A73" offset="0.9658"/>
+    <stop stop-color="#707072" offset="0.9891"/>
+    <stop stop-color="#6F6F6E" offset="1"/>
+   </radialGradient>
+   <circle id="svg_131" r="27.638" cy="43.29" cx="339.198" stroke-miterlimit="10" stroke-width="0.5708" stroke="#878786" fill="url(#SVGID_79_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_132" filter="url(#AI_GaußscherWeichzeichner_1)">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.500018" y1="0.999996" x1="0.500018" id="SVGID_80_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_133" d="m319.431,43.290001c0,-12.685001 8.850006,-22.968002 19.766998,-22.968002c-12.523987,0 -22.677002,10.283001 -22.677002,22.968002s10.152008,22.968002 22.677002,22.968002c-10.916992,0 -19.766998,-10.283005 -19.766998,-22.968002z" fill="url(#SVGID_80_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000015" x2="0.49996" y1="0.999996" x1="0.49996" id="SVGID_81_">
+     <stop stop-color="#575656" offset="0.0767"/>
+     <stop stop-color="#C5C6C6" stop-opacity="0.1" offset="1"/>
+    </linearGradient>
+    <path id="svg_134" d="m339.197998,20.321999c10.916992,0 19.766998,10.283001 19.766998,22.968002s-8.850006,22.968002 -19.766998,22.968002c12.523987,0 22.677002,-10.283005 22.677002,-22.968002s-10.153015,-22.968002 -22.677002,-22.968002z" fill="url(#SVGID_81_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_135">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0" x2="0.499986" y1="1.000003" x1="0.499986" id="SVGID_82_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_136" d="m37.850998,49.896l-5.774998,7.905003l3.659,2.653999l5.803001,-7.904999c1.858002,0.912994 3.945,1.426994 6.174995,1.426994c7.719002,0 13.951004,-6.221996 13.951004,-13.926998c0,-7.676998 -6.232002,-13.926998 -13.951004,-13.926998c-7.717995,0 -13.950996,6.25 -13.950996,13.926998c0,3.852001 1.543999,7.334 4.088997,9.846001l0,0zm10.005005,-21.091c-6.232002,0 -11.264004,5.051998 -11.264004,11.272999s5.031002,11.243999 11.264004,11.243999c6.230995,0 11.263,-5.021999 11.263,-11.243999s-5.031006,-11.272999 -11.263,-11.272999l0,0z" fill="url(#SVGID_82_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <path id="svg_137" d="m47.786003,28.549c-6.318001,0 -11.435001,5.106998 -11.435001,11.415001c0,6.278999 5.117001,11.415997 11.435001,11.415997c6.316994,0 11.434998,-5.136997 11.434998,-11.415997c-0.000999,-6.308002 -5.118004,-11.415001 -11.434998,-11.415001l0,0z" stroke-miterlimit="10" stroke-width="2.8539" stroke="#FEFEFE" fill="none"/>
+   <line id="svg_138" y2="58.515" x2="34.207" y1="49.211" x1="41.096" stroke-miterlimit="10" stroke-width="2.8539" stroke="#FEFEFE" fill="none"/>
+   <line id="svg_139" y2="39.964" x2="52.789" y1="39.964" x1="42.783" stroke-miterlimit="10" stroke-width="2.8539" stroke="#FEFEFE" fill="none"/>
+   <g id="svg_140">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.00001" x2="0.500006" y1="0.999998" x1="0.500006" id="SVGID_83_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_141" d="m46.886002,165.438995c-9.892002,0 -17.925003,8.020004 -17.925003,17.923004c0,9.873993 8.033001,17.893997 17.925003,17.893997c9.604996,0 17.408997,-7.506012 17.923996,-16.951996l-6.431999,0c-0.514999,5.906998 -5.460999,10.531006 -11.491997,10.531006c-6.347,0 -11.493,-5.138 -11.493,-11.473007c0,-6.363998 5.146,-11.501999 11.493,-11.501999c1,0 1.973,0.143997 2.887001,0.371002l-5.489006,5.509003l16.752007,0l0,-16.83902l-6.289001,6.335999c-2.372002,-1.140991 -5.030998,-1.797989 -7.861,-1.797989l0,0z" fill="url(#SVGID_83_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_142">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.000058" x2="0.500027" y1="1.000058" x1="0.500027" id="SVGID_84_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_143" d="m202.046005,49.896c2.544006,-2.512001 4.087997,-5.993 4.087997,-9.846001c0,-7.676998 -6.231995,-13.926998 -13.951004,-13.926998c-7.718994,0 -13.951004,6.25 -13.951004,13.926998c0,7.705002 6.23201,13.926998 13.951004,13.926998c2.229004,0 4.315994,-0.514 6.175018,-1.426994l5.802994,7.904999l3.658997,-2.653999l-5.774002,-7.905003l0,0zm-10.006012,-21.09c-6.231003,0 -11.263,5.052002 -11.263,11.272999s5.030991,11.243999 11.263,11.243999c6.231995,0 11.263992,-5.021999 11.263992,-11.243999s-5.031982,-11.272999 -11.263992,-11.272999l0,0z" fill="url(#SVGID_84_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <path id="svg_144" d="m192.095993,28.549999c6.317993,0 11.435989,5.107002 11.435989,11.415001c0,6.278999 -5.116989,11.415997 -11.435989,11.415997c-6.317001,0 -11.434998,-5.136997 -11.434998,-11.415997c0,-6.307999 5.117004,-11.415001 11.434998,-11.415001l0,0z" stroke-miterlimit="10" stroke-width="2.8539" stroke="#FEFEFE" fill="none"/>
+   <line id="svg_145" y2="58.516" x2="205.675" y1="49.212" x1="198.785" stroke-miterlimit="10" stroke-width="2.8539" stroke="#FEFEFE" fill="none"/>
+   <line id="svg_146" y2="34.971" x2="192.096" y1="44.959" x1="192.096" stroke-miterlimit="10" stroke-width="2.8539" stroke="#FEFEFE" fill="none"/>
+   <line id="svg_147" y2="39.965" x2="187.093" y1="39.965" x1="197.099" stroke-miterlimit="10" stroke-width="2.8539" stroke="#FEFEFE" fill="none"/>
+   <g id="svg_148">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.000033" x2="0.499987" y1="1.00002" x1="0.499987" id="SVGID_85_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_149" d="m192.996994,165.438995c9.891998,0 17.925003,8.020004 17.925003,17.923004c0,9.873993 -8.033005,17.893997 -17.925003,17.893997c-9.605011,0 -17.408997,-7.506012 -17.924011,-16.951996l6.432007,0c0.514999,5.906998 5.460999,10.531006 11.492004,10.531006c6.347,0 11.492996,-5.138 11.492996,-11.473007c0,-6.363998 -5.145996,-11.501999 -11.492996,-11.501999c-1,0 -1.973007,0.143997 -2.887009,0.371002l5.488998,5.509003l-16.751999,0l0,-16.83902l6.289001,6.335999c2.372009,-1.140991 5.031021,-1.797989 7.861008,-1.797989l0,0z" fill="url(#SVGID_85_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <path id="svg_150" d="m60.122002,163.270004l-5.146004,5.138c-2.401001,-1.284012 -5.145996,-2.026001 -8.032997,-2.026001c-9.433998,0 -17.066002,7.619995 -17.066002,17.037994c0,9.389999 7.633003,17.009995 17.066002,17.009995c8.834,0 16.124001,-6.734985 16.953003,-15.353989l-4.803001,0c-0.801003,5.964996 -5.945999,10.587997 -12.150002,10.587997c-6.775002,0 -12.292,-5.479004 -12.292,-12.242996s5.516998,-12.272003 12.292,-12.272003c1.572998,0 3.059998,0.313995 4.459999,0.856995l-4.917,4.878998l13.637001,0l0,-13.61499l-0.000999,0z" fill="#EBEBEB" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_151">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000003" x2="0.500009" y1="1.000009" x1="0.500009" id="SVGID_86_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_152" d="m347.899994,59.917l0,-15.957001l8.69101,0l-17.410004,-18.036999l-17.381012,18.036999l8.69101,0l0,15.957001l17.408997,0zm0,-7.595001m4.346008,-8.362m-4.346008,-9.017998m-17.408997,0m-4.345001,9.017998m4.345001,8.362m8.69101,8.334" fill="url(#SVGID_86_)"/>
+   </g>
+   <g id="svg_153">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="1.000009" x2="0.500008" y1="-0.000003" x1="0.500008" id="SVGID_87_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_154" d="m330.492004,95.410004l0,15.956993l-8.692017,0l17.410004,18.03701l17.381012,-18.03701l-8.69101,0l0,-15.956993l-17.40799,0zm0,7.594994m-4.346008,8.362m4.346008,9.017998m17.408997,0m4.346008,-9.017998m-4.346008,-8.362m-8.69101,-8.334" fill="url(#SVGID_87_)"/>
+   </g>
+   <g id="svg_155">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.499963" x2="-0.000013" y1="0.499963" x1="0.999971" id="SVGID_88_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_156" d="m282.738007,103.333l-15.957001,0l0,-8.691002l-18.036987,17.410004l18.036987,17.382004l0,-8.69101l15.957001,0l0,-17.409996zm-7.593994,0m-8.363007,-4.346001m-9.016998,4.346001m0,17.409004m9.016998,4.345993m8.363007,-4.345993m8.333984,-8.690002" fill="url(#SVGID_88_)"/>
+   </g>
+   <g id="svg_157">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.500017" x2="1.000022" y1="0.500017" x1="0.000015" id="SVGID_89_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_158" d="m395.656006,120.742004l15.957001,0l0,8.690994l18.037018,-17.409996l-18.037018,-17.382004l0,8.691002l-15.957001,0l0,17.410004zm7.593994,0m8.363007,4.345993m9.018005,-4.345993m0,-17.409004m-9.018005,-4.346001m-8.363007,4.346001m-8.334015,8.690002" fill="url(#SVGID_89_)"/>
+   </g>
+   <path id="svg_159" d="m179.761002,163.270004l5.145996,5.138c2.401001,-1.284012 5.145996,-2.026001 8.033005,-2.026001c9.43399,0 17.065994,7.619995 17.065994,17.037994c0,9.389999 -7.632996,17.009995 -17.065994,17.009995c-8.833008,0 -16.124008,-6.734985 -16.953003,-15.353989l4.802994,0c0.800003,5.964996 5.945999,10.587997 12.150009,10.587997c6.774994,0 12.291992,-5.479004 12.291992,-12.242996s-5.516998,-12.272003 -12.291992,-12.272003c-1.572006,0 -3.059006,0.313995 -4.460007,0.856995l4.917007,4.878998l-13.636002,0l0,-13.61499z" fill="#EBEBEB" clip-rule="evenodd" fill-rule="evenodd"/>
+   <path id="svg_160" d="m347.15799,59.171997l0,-15.896996l7.946991,0l-15.923004,-15.868l-15.894989,15.868l7.946991,0l0,15.895996l15.924011,0l0,0.000999zm0,-7.933998m3.973022,-7.962997m-3.973022,-7.934002m-15.923004,0m-3.973999,7.934002m3.973999,7.962997m7.947021,7.933998" fill="#EBEBEB"/>
+   <path id="svg_161" d="m331.234985,96.301003l0,15.867996l-7.946991,0l15.894989,15.896004l15.923004,-15.896004l-7.946991,0l0,-15.867996l-15.924011,0zm0,7.932999m-3.973999,7.934998m3.973999,7.963005m15.923004,0m3.973022,-7.963005m-3.973022,-7.934998m-7.975983,-7.932999" fill="#EBEBEB"/>
+   <path id="svg_162" d="m282.019989,104.088997l-15.923004,0l0,-7.933998l-15.894989,15.868004l15.894989,15.896004l0,-7.934006l15.923004,0l0,-15.896004zm-7.947998,0m-7.975006,-3.966995m-7.947998,3.966995m0,15.896996m7.947998,3.96701m7.975006,-3.96701m7.947998,-7.96299" fill="#EBEBEB"/>
+   <path id="svg_163" d="m396.373993,120.132004l15.923004,0l0,7.93399l15.894989,-15.867996l-15.894989,-15.895996l0,7.933998l-15.923004,0l0,15.896004zm7.947021,0m7.975983,3.966995m7.946991,-3.966995m0,-15.898003m-7.946991,-3.966003m-7.975983,3.966003m-7.947021,7.962997" fill="#EBEBEB"/>
+   <path id="svg_164" d="m285.404999,185.218002l-6.231995,6.250992l0,-3.139999l-21.841003,0l0,-21.804993l-3.115997,0l6.231995,-6.221008l6.231995,6.221008l-3.115997,0l0,15.582993l15.608002,0l0,-3.110001l6.233002,6.221008zm-3.115997,3.110992m-3.115997,1.569m-10.920013,-1.569m-10.92099,-10.901993m-1.571991,-10.903m1.571991,-3.110001m6.231995,0m1.572998,3.110001m-1.572998,7.791m7.804993,7.791992m7.804016,-1.541m3.115997,1.541" fill="#FEFEFE"/>
+   <g id="svg_165">
+    <path id="svg_166" d="m246.828003,167.621002l2.950012,0l1.730988,2.895004l1.734985,-2.895004l2.934021,0l-3.34201,4.985992l0,3.594009l-2.661987,0l0,-3.594009l-3.346008,-4.985992z" fill="#FEFEFE"/>
+   </g>
+   <g id="svg_167">
+    <path id="svg_168" d="m269.117004,189.598007l2.925995,0l1.520996,2.641006l1.480011,-2.641006l2.895996,0l-2.674988,4.156006l2.926971,4.423996l-2.982971,0l-1.697021,-2.755997l-1.696991,2.755997l-2.96701,0l2.964996,-4.470993l-2.695984,-4.109009z" fill="#FEFEFE"/>
+   </g>
+   <path id="svg_169" d="m358.235992,185.218002l-6.230988,6.250992l0,-3.139999l-21.84201,0l0,-21.804993l-3.115997,0l6.231995,-6.221008l6.231995,6.221008l-3.115997,0l0,15.582993l15.609009,0l0,-3.110001l6.231995,6.221008zm-3.115997,3.110992m-3.11499,1.569m-10.92099,-1.569m-10.921021,-10.901993m-1.571991,-10.903m1.571991,-3.110001m6.233002,0m1.571991,3.110001m-1.571991,7.791m7.804016,7.791992m7.804993,-1.541m3.11499,1.541" fill="#FEFEFE"/>
+   <g id="svg_170">
+    <path id="svg_171" d="m320.819,168.621002l7.515991,0l0,1.714996l-4.824005,5.020996l5,0l0,1.844009l-8.154999,0l0,-1.779007l4.774017,-4.968994l-4.311005,0l0,-1.832001z" fill="#FEFEFE"/>
+   </g>
+   <g id="svg_172">
+    <path id="svg_173" d="m341.464996,189.598007l2.925995,0l1.520996,2.641006l1.480011,-2.641006l2.895996,0l-2.674988,4.156006l2.927002,4.423996l-2.983002,0l-1.697021,-2.755997l-1.696991,2.755997l-2.96698,0l2.964996,-4.470993l-2.696014,-4.109009z" fill="#FEFEFE"/>
+   </g>
+   <path id="svg_174" d="m431.576996,185.218002l-6.231995,6.250992l0,-3.139999l-21.841003,0l0,-21.804993l-3.11499,0l6.230988,-6.221008l6.231995,6.221008l-3.115997,0l0,15.582993l15.608002,0l0,-3.110001l6.233002,6.221008zm-3.115997,3.110992m-3.115997,1.569m-10.920013,-1.569m-10.92099,-10.901993m-1.571991,-10.903m1.571991,-3.110001m6.231995,0m1.572998,3.110001m-1.572998,7.791m7.804993,7.791992m7.804016,-1.541m3.115997,1.541" fill="#FEFEFE"/>
+   <g id="svg_175">
+    <path id="svg_176" d="m393,168.621002l2.950012,0l1.730988,2.895004l1.734985,-2.895004l2.935028,0l-3.34201,4.985992l0,3.594009l-2.662018,0l0,-3.594009l-3.346985,-4.985992z" fill="#FEFEFE"/>
+   </g>
+   <g id="svg_177">
+    <path id="svg_178" d="m416.65799,189.598007l7.516998,0l0,1.714996l-4.825012,5.021011l5.001007,0l0,1.843994l-8.154999,0l0,-1.778992l4.774017,-4.969009l-4.312012,0l0,-1.832001z" fill="#FEFEFE"/>
+   </g>
+   <g id="svg_179">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0" x2="0.500006" y1="0.999988" x1="0.500006" id="SVGID_90_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_180" points="278.8080139160156,188.7010040283203 256.9670104980469,188.7010040283203 256.9670104980469,166.89700317382812 253.30801391601562,166.89700317382812 260.4259948730469,159.79100036621094 267.5450134277344,166.89700317382812 263.97100830078125,166.89700317382812 263.97100830078125,181.73699951171875 278.8080139160156,181.73699951171875 278.8080139160156,178.05599975585938 285.9259948730469,185.16200256347656 278.8080139160156,192.2689971923828 " fill="url(#SVGID_90_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_181">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0" x2="0.500003" y1="0.999988" x1="0.500003" id="SVGID_91_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_182" points="351.68701171875,188.7010040283203 329.84600830078125,188.7010040283203 329.84600830078125,166.89700317382812 326.18701171875,166.89700317382812 333.30499267578125,159.79100036621094 340.42401123046875,166.89700317382812 336.8500061035156,166.89700317382812 336.8500061035156,181.73699951171875 351.68701171875,181.73699951171875 351.68701171875,178.05599975585938 358.80499267578125,185.16200256347656 351.68701171875,192.2689971923828 " fill="url(#SVGID_91_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_183">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0" x2="0.5" y1="0.999988" x1="0.5" id="SVGID_92_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_184" points="424.9630126953125,188.7010040283203 403.1210021972656,188.7010040283203 403.1210021972656,166.89700317382812 399.4630126953125,166.89700317382812 406.5799865722656,159.79100036621094 413.6990051269531,166.89700317382812 410.125,166.89700317382812 410.125,181.73699951171875 424.9630126953125,181.73699951171875 424.9630126953125,178.05599975585938 432.0799865722656,185.16200256347656 424.9630126953125,192.2689971923828 " fill="url(#SVGID_92_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_185">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.499952" x2="1.000014" y1="0.499952" x1="0" id="SVGID_93_">
+     <stop stop-color="#E3000F" stop-opacity="0" offset="0"/>
+     <stop stop-color="#E3000F" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_186" points="285.4049987792969,185.218994140625 279.1730041503906,191.468994140625 279.1730041503906,188.35800170898438 263.5639953613281,188.35800170898438 263.5639953613281,182.10699462890625 279.1730041503906,182.10699462890625 279.1730041503906,178.9969940185547 " fill="url(#SVGID_93_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_187">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.499952" x2="1.000014" y1="0.499952" x1="0.000001" id="SVGID_94_">
+     <stop stop-color="#E3000F" stop-opacity="0" offset="0"/>
+     <stop stop-color="#E3000F" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_188" points="358.2359924316406,185.218994140625 352.0039978027344,191.468994140625 352.0039978027344,188.35800170898438 336.3949890136719,188.35800170898438 336.3949890136719,182.10699462890625 352.0039978027344,182.10699462890625 352.0039978027344,178.9969940185547 " fill="url(#SVGID_94_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_189">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.499952" x2="1.000004" y1="0.499952" x1="0.000014" id="SVGID_95_">
+     <stop stop-color="#009EE3" stop-opacity="0" offset="0"/>
+     <stop stop-color="#009EE3" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_190" points="431.5780029296875,185.218994140625 425.34600830078125,191.468994140625 425.34600830078125,188.35800170898438 409.7359924316406,188.35800170898438 409.7359924316406,182.10699462890625 425.34600830078125,182.10699462890625 425.34600830078125,178.9969940185547 " fill="url(#SVGID_95_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_191">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000028" x2="0.499998" y1="1.000003" x1="0.499998" id="SVGID_96_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_192" d="m122.197998,46.743l-5.401993,0l-6.547012,0c0,0.370998 -0.028,0.771 -0.028,1.171001c0,1.882999 0.286011,3.681 0.771011,5.307999l-8.862,-3.624001c-0.143005,-0.942001 -0.200012,-1.883999 -0.229004,-2.854l-2.458,0l0,-4.48l2.745003,0c1.401001,-9.476002 8.003998,-16.638 15.894989,-16.638c7.919006,0 14.494003,7.161999 15.923004,16.638l5.518005,0l0,4.48l-5.231003,0c-0.028,1.456001 -0.199997,2.882999 -0.457001,4.225002l6.600998,2.280998l-12.320999,7.706001l-4.944992,-13.642002l7.918991,2.711002c0.085007,-0.685001 0.113998,-1.398003 0.113998,-2.111c0,-0.400002 0,-0.800003 -0.028992,-1.171001l-8.977005,0zm-11.091995,-4.48l5.688995,0l5.402008,0l8.146988,0c-1.628998,-4.937 -5.315994,-8.390999 -9.633987,-8.390999c-4.287003,0 -7.974014,3.453999 -9.604004,8.390999l0,0z" fill="url(#SVGID_96_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_193" height="3.682" width="22.412" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="42.72" x="99.671"/>
+    <path id="svg_194" d="m123.828003,48.056999l4.487991,12.357002l11.149002,-6.992004l-6.261002,-2.140999c0.400009,-1.740997 0.600998,-3.566998 0.600998,-5.479c0,-10.844997 -7.061996,-19.605999 -15.780991,-19.605999s-15.779999,8.762001 -15.779999,19.605999c0,1.228001 0.085999,2.426003 0.257004,3.596001l7.946991,3.368c-0.371994,-1.513 -0.599991,-3.111 -0.599991,-4.794998c0,-8.02 4.859985,-14.526001 10.834,-14.526001s10.834991,6.507 10.834991,14.526001c0,0.912998 -0.057999,1.798 -0.171997,2.653999l-7.516998,-2.568001z" fill="#EBEBEB" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_195" height="3.682" width="22.413" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="42.72" x="116.738"/>
+   </g>
+   <g id="svg_196">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.499993" x2="-0.000031" y1="0.499993" x1="0.999943" id="SVGID_97_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_197" d="m50.308998,109.924004l0,5.402l0,6.546997c0.371002,0 0.771004,0.028 1.171005,0.028c1.882996,0 3.681,-0.285004 5.307999,-0.770996l-3.624001,8.862c-0.942001,0.14299 -1.884003,0.199997 -2.854004,0.228989l0,2.459l-4.479996,0l0,-2.744995c-9.476002,-1.399994 -16.638,-8.003998 -16.638,-15.894997c0,-7.918999 7.161999,-14.494003 16.638,-15.923004l0,-5.517998l4.479996,0l0,5.231003c1.456001,0.028 2.883003,0.199997 4.225006,0.457001l2.281998,-6.604004l7.706001,12.320999l-13.642006,4.945l2.711006,-7.918999c-0.685005,-0.084999 -1.398003,-0.113998 -2.111,-0.113998c-0.400002,0 -0.800003,0 -1.171005,0.028999l0,8.979004l-0.000999,0zm-4.480995,11.092003l0,-5.688995l0,-5.402l0,-8.147003c-4.937004,1.629005 -8.391006,5.316002 -8.391006,9.634003c0.001007,4.285988 3.455002,7.973991 8.391006,9.603996l0,0z" fill="url(#SVGID_97_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_198" height="22.412" width="3.682" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="110.038" x="46.285"/>
+    <path id="svg_199" d="m51.622002,108.293999l12.356995,-4.487999l-6.991997,-11.149002l-2.140999,6.261002c-1.740997,-0.400002 -3.567001,-0.600998 -5.479004,-0.600998c-10.844994,0 -19.605995,7.061996 -19.605995,15.780998c0,8.719002 8.762001,15.780006 19.605995,15.780006c1.228004,0 2.426003,-0.085999 3.596001,-0.258011l3.368004,-7.946991c-1.513,0.371994 -3.111,0.600998 -4.794998,0.600998c-8.020004,0 -14.526001,-4.860001 -14.526001,-10.834999s6.506996,-10.835007 14.526001,-10.835007c0.912994,0 1.797997,0.058006 2.653999,0.172005l-2.568001,7.517998z" fill="#EBEBEB" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_200" height="22.413" width="3.682" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="92.971" x="46.285"/>
+   </g>
+   <g id="svg_201">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="0.499944" x2="1.000026" y1="0.499944" x1="-0.000003" id="SVGID_98_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_202" d="m189.572998,100.946999c-0.371002,-0.028999 -0.770996,-0.028999 -1.171005,-0.028999c-0.712997,0 -1.426987,0.028999 -2.110992,0.113998l2.710999,7.918999l-13.641998,-4.945l7.705994,-12.320999l2.282013,6.604004c1.341995,-0.257004 2.768997,-0.429001 4.224991,-0.457001l0,-5.231003l4.479996,0l0,5.518005c9.476013,1.428993 16.638,8.003998 16.638,15.922997c0,7.890999 -7.161987,14.493996 -16.638,15.894997l0,2.74501l-4.479996,0l0,-2.459c-0.970993,-0.028 -1.912003,-0.086014 -2.854004,-0.229004l-3.623993,-8.862c1.626999,0.485992 3.425003,0.770996 5.307999,0.770996c0.399994,0 0.800003,-0.028 1.171005,-0.028l0,-6.546997l0,-5.402l0,-8.979004l-0.001007,0zm4.479996,20.069008c4.936996,-1.62999 8.390991,-5.317001 8.390991,-9.604996c0,-4.317001 -3.453995,-8.004997 -8.390991,-9.634003l0,8.147003l0,5.401993l0,5.690002l0,0z" fill="url(#SVGID_98_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_203" height="22.412" width="3.682" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="110.038" x="189.915"/>
+    <path id="svg_204" d="m188.259003,108.293999l-12.35701,-4.487999l6.992004,-11.149002l2.141006,6.261002c1.740997,-0.400002 3.567001,-0.600998 5.479004,-0.600998c10.844986,0 19.605988,7.061996 19.605988,15.780998c0,8.719002 -8.761993,15.780006 -19.605988,15.780006c-1.228012,0 -2.42601,-0.085999 -3.596008,-0.258011l-3.367996,-7.946991c1.513,0.371994 3.110992,0.600998 4.794998,0.600998c8.020004,0 14.526001,-4.860001 14.526001,-10.834999s-6.507004,-10.835007 -14.526001,-10.835007c-0.912994,0 -1.798004,0.058006 -2.654007,0.172005l2.568008,7.517998z" fill="#EBEBEB" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_205" height="22.413" width="3.682" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="92.971" x="189.915"/>
+   </g>
+   <g id="svg_206">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="1.000003" x2="0.500058" y1="0" x1="0.500058" id="SVGID_99_">
+     <stop stop-color="#FFFFFF" offset="0"/>
+     <stop stop-color="#575656" offset="1"/>
+    </linearGradient>
+    <path id="svg_207" d="m131.173996,177.626007c0.029007,-0.371002 0.029007,-0.770996 0.029007,-1.17099c0,-0.713013 -0.029007,-1.427002 -0.113998,-2.111008l-7.919006,2.710999l4.945007,-13.641998l12.320999,7.705994l-6.604004,2.282013c0.257004,1.341995 0.429001,2.768997 0.457001,4.224991l5.231003,0l0,4.479996l-5.518005,0c-1.429001,9.476013 -8.003998,16.638 -15.923004,16.638c-7.889999,0 -14.493988,-7.161987 -15.894989,-16.638l-2.745003,0l0,-4.479996l2.458,0c0.028992,-0.970993 0.085999,-1.912003 0.229004,-2.854004l8.861984,-3.623993c-0.486008,1.626999 -0.770996,3.425003 -0.770996,5.307999c0,0.399994 0.028,0.800003 0.028,1.171005l6.546997,0l5.401993,0l8.980011,0l0,-0.001007zm-20.067993,4.479996c1.628998,4.936996 5.317001,8.390991 9.604996,8.390991c4.317001,0 8.005005,-3.453995 9.634003,-8.390991l-8.147003,0l-5.401993,0l-5.690002,0l0,0z" fill="url(#SVGID_99_)" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_208" height="3.682" width="22.412" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="177.968" x="99.671"/>
+    <path id="svg_209" d="m123.828003,176.313004l4.487991,-12.35701l11.149002,6.992004l-6.261002,2.141006c0.400009,1.740997 0.600998,3.567001 0.600998,5.478989c0,10.845001 -7.061996,19.606003 -15.780991,19.606003s-15.779999,-8.761993 -15.779999,-19.606003c0,-1.227997 0.085999,-2.425995 0.257004,-3.595993l7.946991,-3.367996c-0.371994,1.513 -0.599991,3.110992 -0.599991,4.794998c0,8.020004 4.859985,14.526001 10.834,14.526001s10.834991,-6.507004 10.834991,-14.526001c0,-0.91301 -0.057999,-1.798004 -0.171997,-2.654007l-7.516998,2.568008z" fill="#EBEBEB" clip-rule="evenodd" fill-rule="evenodd"/>
+    <rect id="svg_210" height="3.682" width="22.413" fill="#00A1DF" clip-rule="evenodd" fill-rule="evenodd" y="177.968" x="116.738"/>
+   </g>
+  </g>
+  <g id="Ebene_3">
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.5" y1="1.000007" x1="0.5" id="SVGID_100_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_211" d="m19.334999,40.799999c8.805,1.456001 18.023003,2.232002 27.520004,2.232002c9.496994,0 18.715996,-0.776001 27.520996,-2.232002c-1.260002,-14.097 -13.097,-25.146999 -27.520996,-25.146999s-26.260002,11.049999 -27.520004,25.146999z" fill="url(#SVGID_100_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000004" x2="0.5" y1="1.000029" x1="0.5" id="SVGID_101_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_212" d="m19.334999,109.693001c8.805,1.456001 18.023003,2.232002 27.520004,2.232002c9.496994,0 18.715996,-0.776001 27.520996,-2.232002c-1.260002,-14.097 -13.097,-25.147003 -27.520996,-25.147003s-26.260002,11.051003 -27.520004,25.147003z" fill="url(#SVGID_101_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000022" x2="0.5" y1="1.000011" x1="0.5" id="SVGID_102_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_213" d="m19.334999,178.587997c8.805,1.456009 18.023003,2.23201 27.520004,2.23201c9.496994,0 18.715996,-0.776001 27.520996,-2.23201c-1.260002,-14.097 -13.097,-25.147003 -27.520996,-25.147003s-26.260002,11.050003 -27.520004,25.147003z" fill="url(#SVGID_102_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.500007" y1="1.000007" x1="0.500007" id="SVGID_103_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_214" d="m92.419998,40.799999c8.805008,1.456001 18.022995,2.232002 27.520004,2.232002c9.496994,0 18.716003,-0.776001 27.520996,-2.232002c-1.259995,-14.097 -13.097,-25.146999 -27.520996,-25.146999s-26.260002,11.049999 -27.520004,25.146999z" fill="url(#SVGID_103_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.499998" y1="1.000007" x1="0.499998" id="SVGID_104_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_215" d="m165.505997,40.799999c8.805008,1.456001 18.02301,2.232002 27.520004,2.232002c9.496994,0 18.716003,-0.776001 27.520996,-2.232002c-1.259995,-14.097 -13.097,-25.146999 -27.520996,-25.146999s-26.259995,11.049999 -27.520004,25.146999z" fill="url(#SVGID_104_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000004" x2="0.499998" y1="1.000029" x1="0.499998" id="SVGID_105_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_216" d="m165.505997,109.693001c8.805008,1.456001 18.02301,2.232002 27.520004,2.232002c9.496994,0 18.716003,-0.776001 27.520996,-2.232002c-1.259995,-14.097 -13.097,-25.147003 -27.520996,-25.147003s-26.259995,11.051003 -27.520004,25.147003z" fill="url(#SVGID_105_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000004" x2="0.499996" y1="1.000029" x1="0.499996" id="SVGID_106_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_217" d="m238.591003,109.693001c8.804993,1.456001 18.02301,2.232002 27.519989,2.232002c9.497009,0 18.716003,-0.776001 27.520996,-2.232002c-1.259979,-14.097 -13.096985,-25.147003 -27.520996,-25.147003s-26.259979,11.051003 -27.519989,25.147003z" fill="url(#SVGID_106_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000004" x2="0.500005" y1="1.000029" x1="0.500005" id="SVGID_107_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_218" d="m311.675995,109.693001c8.804993,1.456001 18.02301,2.232002 27.52002,2.232002c9.496979,0 18.715973,-0.776001 27.520996,-2.232002c-1.26001,-14.097 -13.097015,-25.147003 -27.520996,-25.147003s-26.26001,11.051003 -27.52002,25.147003z" fill="url(#SVGID_107_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000004" x2="0.499995" y1="1.000029" x1="0.499995" id="SVGID_108_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_219" d="m384.761993,109.693001c8.804993,1.456001 18.02301,2.232002 27.519989,2.232002c9.497009,0 18.716003,-0.776001 27.520996,-2.232002c-1.259979,-14.097 -13.096985,-25.147003 -27.520996,-25.147003s-26.260986,11.051003 -27.519989,25.147003z" fill="url(#SVGID_108_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000022" x2="0.500007" y1="1.000011" x1="0.500007" id="SVGID_109_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_220" d="m92.419998,178.587997c8.805008,1.456009 18.022995,2.23201 27.520004,2.23201c9.496994,0 18.716003,-0.776001 27.520996,-2.23201c-1.259995,-14.097 -13.097,-25.147003 -27.520996,-25.147003s-26.260002,11.050003 -27.520004,25.147003z" fill="url(#SVGID_109_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000022" x2="0.499998" y1="1.000011" x1="0.499998" id="SVGID_110_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_221" d="m165.505997,178.587997c8.805008,1.456009 18.02301,2.23201 27.520004,2.23201c9.496994,0 18.716003,-0.776001 27.520996,-2.23201c-1.259995,-14.097 -13.097,-25.147003 -27.520996,-25.147003s-26.259995,11.050003 -27.520004,25.147003z" fill="url(#SVGID_110_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000022" x2="0.500006" y1="1.000011" x1="0.500006" id="SVGID_111_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_222" d="m238.591003,178.587997c8.804993,1.456009 18.02301,2.23201 27.519989,2.23201c9.497009,0 18.716003,-0.776001 27.520996,-2.23201c-1.259979,-14.097 -13.096985,-25.147003 -27.520996,-25.147003s-26.259979,11.050003 -27.519989,25.147003z" fill="url(#SVGID_111_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000022" x2="0.499996" y1="1.000011" x1="0.499996" id="SVGID_112_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_223" d="m311.677002,178.587997c8.804993,1.456009 18.02301,2.23201 27.519989,2.23201c9.497009,0 18.716003,-0.776001 27.520996,-2.23201c-1.259979,-14.097 -13.096985,-25.147003 -27.520996,-25.147003s-26.259979,11.050003 -27.519989,25.147003z" fill="url(#SVGID_112_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000022" x2="0.500004" y1="1.000011" x1="0.500004" id="SVGID_113_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_224" d="m384.761993,178.587997c8.804993,1.456009 18.02301,2.23201 27.518982,2.23201c9.498016,0 18.71701,-0.776001 27.521027,-2.23201c-1.26001,-14.097 -13.096008,-25.147003 -27.52002,-25.147003s-26.259979,11.050003 -27.519989,25.147003z" fill="url(#SVGID_113_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000026" x2="0.500006" y1="1.000007" x1="0.500006" id="SVGID_114_">
+    <stop stop-color="#001E3D" stop-opacity="0.1" offset="0"/>
+    <stop stop-color="#001E3D" stop-opacity="0.4" offset="1"/>
+   </linearGradient>
+   <path id="svg_225" d="m311.677002,40.799999c8.804993,1.456001 18.02301,2.232002 27.519989,2.232002c9.497009,0 18.716003,-0.776001 27.520996,-2.232002c-1.259979,-14.097 -13.096985,-25.146999 -27.520996,-25.146999s-26.259979,11.049999 -27.519989,25.146999z" fill="url(#SVGID_114_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   <g id="svg_226">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000014" x2="0.500031" y1="1.000019" x1="0.500031" id="SVGID_115_">
+     <stop stop-color="#38AA34" stop-opacity="0" offset="0"/>
+     <stop stop-color="#38AA34" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_227" points="260.4490051269531,160.3040008544922 266.7090148925781,166.52499389648438 263.5929870605469,166.52499389648438 263.5929870605469,182.10699462890625 257.3330078125,182.10699462890625 257.3330078125,166.52499389648438 254.21600341796875,166.52499389648438 " fill="url(#SVGID_115_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_228">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000014" x2="0.499944" y1="1.000019" x1="0.499944" id="SVGID_116_">
+     <stop stop-color="#38AA34" stop-opacity="0" offset="0"/>
+     <stop stop-color="#38AA34" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_229" points="406.6210021972656,160.3040008544922 412.8819885253906,166.52499389648438 409.7659912109375,166.52499389648438 409.7659912109375,182.10699462890625 403.5050048828125,182.10699462890625 403.5050048828125,166.52499389648438 400.3890075683594,166.52499389648438 " fill="url(#SVGID_116_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+   <g id="svg_230">
+    <linearGradient transform="translate(0,-0.75) translate(1,-1) translate(0,1) translate(0,1) translate(-28,-14) " y2="-0.000014" x2="0.5" y1="1.000019" x1="0.5" id="SVGID_117_">
+     <stop stop-color="#009EE3" stop-opacity="0" offset="0"/>
+     <stop stop-color="#009EE3" offset="1"/>
+    </linearGradient>
+    <polygon id="svg_231" points="333.27899169921875,160.3040008544922 339.5400085449219,166.52499389648438 336.42401123046875,166.52499389648438 336.42401123046875,182.10699462890625 330.1629943847656,182.10699462890625 330.1629943847656,166.52499389648438 327.0469970703125,166.52499389648438 " fill="url(#SVGID_117_)" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+  </g>
+  <g display="none" id="Ebene_2">
+   <rect id="svg_232" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="37.518" x="5.031"/>
+   <rect id="svg_233" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="37.518" x="78.116"/>
+   <rect id="svg_234" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="37.518" x="151.202"/>
+   <rect id="svg_235" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="37.518" x="224.287"/>
+   <rect id="svg_236" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="106.411" x="78.116"/>
+   <rect id="svg_237" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="106.411" x="151.202"/>
+   <rect id="svg_238" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="106.411" x="297.372"/>
+   <rect id="svg_239" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="106.411" x="370.458"/>
+   <rect id="svg_240" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="106.411" x="224.287"/>
+   <rect id="svg_241" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="175.306" x="78.116"/>
+   <rect id="svg_242" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="175.306" x="151.202"/>
+   <rect id="svg_243" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="175.306" x="297.373"/>
+   <rect id="svg_244" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="175.306" x="370.458"/>
+   <rect id="svg_245" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="175.306" x="224.287"/>
+   <rect id="svg_246" height="6.479" width="6.479" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="-186.436" x="55.972"/>
+   <rect id="svg_247" height="6.479" width="6.479" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="74.498" x="43.617"/>
+   <rect id="svg_248" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="37.518" x="297.373"/>
+   <rect id="svg_249" height="10.564" width="10.564" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="37.518" x="370.458"/>
+   <rect id="svg_250" height="6.479" width="6.479" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="74.498" x="262.874"/>
+   <rect id="svg_251" height="6.479" width="6.479" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="5.563" x="43.617"/>
+   <rect id="svg_252" height="6.479" width="6.479" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="143.392" x="43.617"/>
+   <rect id="svg_253" height="6.479" width="6.479" fill="#FFED00" clip-rule="evenodd" fill-rule="evenodd" y="212.286" x="43.617"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+
+{
+	"UpdateRate": 200,
+	"PlcAddress": "030C.9000.2DDC.C0A8.0010",
+	"UseLocalHost": true,
+	"Application": "Application",
+	"StartVisu": "MainPage",
+	"BestFit": true,
+	"LogLevel": "INFO",
+	"CommBufferSize": 50000,
+    "HasKeyboard": false,
+    "TouchHandlingActive": false,
+    "ScaleTypeIsotropic": false
+}

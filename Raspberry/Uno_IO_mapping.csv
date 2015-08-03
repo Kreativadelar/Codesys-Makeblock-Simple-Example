@@ -1,0 +1,13 @@
+//CoDeSys Mapping Export V1.2
+//Mapped variable;//Parameter name @ counter in device;//Unit;//Description;//IEC address;//Device name;
+//Important: change only first, third or fourth column in Excel or add variable name before first ;
+;WriteCoils;;Write Multiple Coils;%QB1;Uno
+;WriteCoils[0];;Write Multiple Coils;%QB1;Uno
+;Bit0;;WRITE 16#0000 (=00000) ;%QX1.0;Uno
+;Bit1;;WRITE 16#0001 (=00001) - Default ;%QX1.1;Uno
+;Bit2;;WRITE 16#0002 (=00002) ;%QX1.2;Uno
+;Bit3;;WRITE 16#0003 (=00003) ;%QX1.3;Uno
+;Bit4;;WRITE 16#0004 (=00004) ;%QX1.4;Uno
+;Bit5;;WRITE 16#0005 (=00005) - Nr 5 ;%QX1.5;Uno
+;Bit6;;WRITE 16#0006 (=00006) ;%QX1.6;Uno
+;Bit7;;WRITE 16#0007 (=00007) - qwert ;%QX1.7;Uno
