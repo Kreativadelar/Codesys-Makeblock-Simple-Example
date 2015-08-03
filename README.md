@@ -1,4 +1,4 @@
-# Codesys-Makeblock Simple example
+# Codesys-Makeblock simple example
 
 ![Video showing the example](http://az61094.vo.msecnd.net/img/09/f7bdbcd1-116a-429a-a03b-3eb54e0b40b5/940/528)
 
