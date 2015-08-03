@@ -10,17 +10,18 @@ Video showing the example:
 [![Video showing the example](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
 
 Part used for this example:
-•	Raspberry PI 
-•	Arduino UNO
-•	Arduino Ethernet Shield
-•	Me UNO Shield
-•	Me Line Follower V2.2
-•	Makeblock LED RGB Strip (0.5m)
++	Raspberry PI 
++	Arduino UNO
++	Arduino Ethernet Shield
++	Me UNO Shield
++	Me Line Follower V2.2
++	Makeblock LED RGB Strip (0.5m)
 
 
 Library and software used for this example:
-•	Modbus TCP/IP library for Arduino (https://code.google.com/p/mudbus/downloads/list)
-•	CODESYS Control for Raspberry Pi SL (http://store.codesys.com/codesys-control-for-raspberry-pi-sl.html)
++	Modbus TCP/IP library for Arduino (https://code.google.com/p/mudbus/downloads/list)
++	CODESYS Control for Raspberry Pi SL (http://store.codesys.com/codesys-control-for-raspberry-pi-sl.html)
++	CODESYS Development System for programming the controller (http://store.codesys.com/codesys.html)  
 
 Resource for this example:
 
